@@ -1,3 +1,6 @@
+<img src="./assets/gif-pixelado.gif" width="150" />
+
+
 # 👋 Hello! I'm Lucas — Full Stack Web Developer
 
 I’m a developer focused on building complete web systems and SaaS platforms that deliver real business value.
