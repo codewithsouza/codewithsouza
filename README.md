@@ -1,6 +1,3 @@
-<img src="./assets/gif-pixelado.gif" width="150" />
-## Meu GIF Pixelado
-
 ![GIF Pixelado](./assets/gif-pixelado.gif)
 
 
