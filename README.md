@@ -10,17 +10,47 @@ I’m a developer focused on building complete web systems and SaaS platforms th
 
 ---
 
-### 🍔 Delivery SaaS – Restaurant Platform  
-**Stack:** Django + javascript + WebSocket  
-White-label system with real-time order tracking, kitchen view, inventory, reports, and WhatsApp integration.
+🍔 Delivery SaaS – Restaurant Platform
+Stack: Django • JavaScript • WebSocket
 
-### 📊 Fiscal Management System  
-**Stack:** Flask + PostgreSQL  + javascript
-Dashboard to track corporate debts, simulate reductions, and generate fiscal/legal reports.
+A white-label restaurant management system designed to support multiple businesses with individual customization. Key features include:
 
-### 🏘️ Real Estate CRM Platform  
-**Stack:** React + Django  
-Manages property listings, developments, sales analytics, and agent workflows.
+Real-time order tracking using WebSockets
+
+Kitchen display interface with instant order updates
+
+Inventory management with consumption tracking
+
+Operational reports and WhatsApp Business integration for customer notifications
+Perfect for companies managing multiple restaurant units under a unified and scalable platform.
+
+📊 Fiscal Management System
+Stack: Flask • PostgreSQL • JavaScript
+
+A corporate-focused system for fiscal control and legal reporting. Core capabilities:
+
+Debt tracking and tax liability management
+
+Simulations for renegotiation and tax optimization strategies
+
+Automated generation of accounting and legal reports
+
+Interactive dashboard for financial decision-making
+Built to support accounting firms and legal departments in optimizing a company’s fiscal standing with precision and clarity.
+
+🏘️ Real Estate CRM Platform
+Stack: React • Django
+
+A complete real estate CRM designed for developers, brokers, and agencies. It offers:
+
+Management of property listings and new developments
+
+Sales pipeline tracking for leads and negotiations
+
+Performance analytics by agent, region, or property
+
+Integration with email workflows and commercial automations
+An ideal solution to streamline the property sales journey with a data-driven approach.
 
 ### 💼 Languages & Tools
 
