@@ -36,12 +36,12 @@ Custom CRM to manage listings, property developments, sales analytics, and real 
 
 ---
 
-## 🤝 Entre em Contato
+## 🤝 Contact Me
 
-[![E-mail](https://img.shields.io/badge/Email-lds.antunesdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lds.antunesdev@gmail.com)  
-[![Upwork](https://img.shields.io/badge/Upwork-Contrate%20via%20Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01528998e13ceaa5aa)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte-se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-souza-a869882aa/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lds.antunesdev@gmail.com)  
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01528998e13ceaa5aa)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-souza-a869882aa/)
 
 ---
 
-💬 *🚀 *Let’s build something great together. Available for freelance and remote work.*
+💬  *Let’s build something great together. Available for freelance and remote work.*
