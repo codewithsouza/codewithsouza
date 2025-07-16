@@ -9,17 +9,32 @@ I’m a developer focused on delivering end-to-end web systems and SaaS platform
 
 ---
 
+
+📊 EasyDesk — Accounting Management Platform
+Stack: Django · MySQL · Vanilla JS
+SaaS platform for accounting firms with modules for client management, tax compliance, licensing, financial records, internal audits, and deadline notifications. Includes Excel import/export and multi-user access control.
+🔗 [GitHub Repository]([https://github.com/codewithsouza/EasyDesk---Enterprise-Accounting-Management-System](https://github.com/codewithsouza/EasyDesk---Enterprise-Accounting-Management-System))· [Live Demo](https://web-production-52f4.up.railway.app)
+
+
 ### 🍔 Delivery SaaS — Restaurant Platform  
 **Stack:** Django · JavaScript · WebSocket  
-White-label platform with real-time order tracking, kitchen display, inventory management, reporting tools, and WhatsApp integration.
+White-label platform with real-time order tracking, kitchen display, inventory management, reporting tools, and WhatsApp integration.  
+🔗 [GitHub Repository](https://github.com/codewithsouza/Delivery-SaaS-Platform-.git)
+
+### 📊 EasyDesk — Accounting Management Platform  
+**Stack:** Django · MySQL · Vanilla JS  
+SaaS platform for accounting firms with modules for client management, tax compliance, licensing, financial records, internal audits, and deadline notifications. Includes Excel import/export and multi-user access control.  
+🔗 [GitHub Repository](https://github.com/codewithsouza/EasyDesk---Enterprise-Accounting-Management-System) · [Live Demo](https://web-production-52f4.up.railway.app)
 
 ### 📊 Fiscal Management System  
 **Stack:** Flask · PostgreSQL · JavaScript  
-Dynamic dashboard to monitor corporate debts, simulate fiscal reductions, and generate legal and financial reports.
+Dynamic dashboard to monitor corporate debts, simulate fiscal reductions, and generate legal and financial reports.  
+🔗 [GitHub Repository](https://github.com/codewithsouza/Patrimonialis-Fiscal-Management-System)
 
 ### 🏘️ Real Estate CRM Platform  
 **Stack:** React · Django  
-Custom CRM to manage listings, property developments, sales analytics, and real estate agent workflows.
+Custom CRM to manage listings, property developments, sales analytics, and real estate agent workflows.  
+🔗 [GitHub Repository](https://github.com/codewithsouza/Real-Estate-CRM-Platform-Key-Features.git)
 
 ---
 
