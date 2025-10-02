@@ -13,6 +13,12 @@ I’m a developer focused on delivering end-to-end web systems and SaaS platform
 **Stack:** Django · MySQL · Vanilla JS  
 SaaS platform for accounting firms with modules for client management, tax compliance, licensing, financial records, internal audits, and deadline notifications. Includes Excel import/export and multi-user access control.  
 🔗 [GitHub Repository](https://github.com/codewithsouza/EasyDesk---Enterprise-Accounting-Management-System) · [Live Demo](https://easydesk.up.railway.app/accounts/login/)
+
+###📞 Call Master - Complete P2P WebRTC Communication Platform
+Stack: Django 4.2 · PostgreSQL · Redis · Django Channels · WebRTC · Vanilla JS
+Full-featured P2P video/audio calling platform with authentication, friend system, real-time messaging, and WebSocket signaling. Includes call history, online status tracking, and Discord-inspired modern UI.
+🔗 [GitHub Repository](https://github.com/codewithsouza/DISCORDO-demo)
+
 ### 🍔 Delivery SaaS — Restaurant Platform  
 **Stack:** Django · JavaScript · WebSocket  
 White-label platform with real-time order tracking, kitchen display, inventory management, reporting tools, and WhatsApp integration.  
