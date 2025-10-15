@@ -9,12 +9,22 @@ I’m a developer focused on delivering end-to-end web systems and SaaS platform
 
 ---
 
+
+### 💼 UAI Accounting — Professional Landing Page
+
+A modern and responsive landing page designed to highlight the services of UAI Accounting, focusing on clarity, credibility, and lead conversion.
+The project features a clean, strategic interface built to attract new clients and present the firm’s services effectively.
+**Stack:** Next.js · React · TypeScript 
+
+🔗 [GitHub Repository](https://github.com/codewithsouza/Uai-Contabilidade-Demo)
+
+
 ### 📊 EasyDesk — Accounting Management Platform  
 **Stack:** Django · MySQL · Vanilla JS  
 SaaS platform for accounting firms with modules for client management, tax compliance, licensing, financial records, internal audits, and deadline notifications. Includes Excel import/export and multi-user access control.  
 🔗 [GitHub Repository](https://github.com/codewithsouza/EasyDesk---Enterprise-Accounting-Management-System) · [Live Demo](https://easydesk.up.railway.app/accounts/login/)
 
-###📞 Call Master - Complete P2P WebRTC Communication Platform
+### 📞 Call Master - Complete P2P WebRTC Communication Platform
 Stack: Django 4.2 · PostgreSQL · Redis · Django Channels · WebRTC · Vanilla JS
 Full-featured P2P video/audio calling platform with authentication, friend system, real-time messaging, and WebSocket signaling. Includes call history, online status tracking, and Discord-inspired modern UI.
 
