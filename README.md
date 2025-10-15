@@ -11,6 +11,7 @@ I’m a developer focused on delivering end-to-end web systems and SaaS platform
 ### 🎨 SEPA — Creative Expression Platform
 
 Stack: React · Node.js · TypeScript
+
 A vibrant and expressive platform designed to empower individuals to share ideas, music, and inspiration with the world.
 SEPA provides a modern space where creativity meets community — connecting artists, thinkers, and dreamers through authentic expression and inspiration.
 
@@ -19,6 +20,7 @@ SEPA provides a modern space where creativity meets community — connecting art
 ### 💼 UAI Accounting — Professional Landing Page
 
 **Stack:** Next.js · React · TypeScript 
+
 A modern and responsive landing page designed to highlight the services of UAI Accounting, focusing on clarity, credibility, and lead conversion.
 The project features a clean, strategic interface built to attract new clients and present the firm’s services effectively.
 
