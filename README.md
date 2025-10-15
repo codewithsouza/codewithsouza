@@ -8,13 +8,20 @@ I’m a developer focused on delivering end-to-end web systems and SaaS platform
 `React` · `Next.js` · `Django` · `PostgreSQL` · `Docker` · `TailwindCSS`
 
 ---
+### 🎨 SEPA — Creative Expression Platform
 
+Stack: React · Node.js · TypeScript
+A vibrant and expressive platform designed to empower individuals to share ideas, music, and inspiration with the world.
+SEPA provides a modern space where creativity meets community — connecting artists, thinkers, and dreamers through authentic expression and inspiration.
+
+🔗 [GitHub Repository](https://github.com/codewithsouza/Sepa-DEMO)
 
 ### 💼 UAI Accounting — Professional Landing Page
 
+**Stack:** Next.js · React · TypeScript 
 A modern and responsive landing page designed to highlight the services of UAI Accounting, focusing on clarity, credibility, and lead conversion.
 The project features a clean, strategic interface built to attract new clients and present the firm’s services effectively.
-**Stack:** Next.js · React · TypeScript 
+
 
 🔗 [GitHub Repository](https://github.com/codewithsouza/Uai-Contabilidade-Demo)
 
