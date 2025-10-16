@@ -16,6 +16,7 @@ A vibrant and expressive platform designed to empower individuals to share ideas
 SEPA provides a modern space where creativity meets community — connecting artists, thinkers, and dreamers through authentic expression and inspiration.
 
 🔗 [GitHub Repository](https://github.com/codewithsouza/Sepa-DEMO)
+🌐 [Live Demo](https://sepa.lat/)
 
 ### 💼 UAI Accounting — Professional Landing Page
 
@@ -26,6 +27,7 @@ The project features a clean, strategic interface built to attract new clients a
 
 
 🔗 [GitHub Repository](https://github.com/codewithsouza/Uai-Contabilidade-Demo)
+🌐 [Live Demo](https://www.uaicontabilidade.com.br/)
 
 
 ### 📊 EasyDesk — Accounting Management Platform  
