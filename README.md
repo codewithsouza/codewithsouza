@@ -41,10 +41,7 @@ Full-featured P2P video/audio calling platform with authentication, friend syste
 
 🔗 [GitHub Repository](https://github.com/codewithsouza/DISCORDO-demo)
 
-### 🍔 Delivery SaaS — Restaurant Platform  
-**Stack:** Django · JavaScript · WebSocket  
-White-label platform with real-time order tracking, kitchen display, inventory management, reporting tools, and WhatsApp integration.  
-🔗 [GitHub Repository](https://github.com/codewithsouza/Delivery-SaaS-Platform-.git)
+
 
 
 ### 📊 Fiscal Management System  
