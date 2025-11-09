@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lucas — Full Stack Web Developer
 
-I’m a developer and founder focused on creating scalable, robust, and sustainable web systems — transforming ideas into products that deliver measurable business value.
+I’m a developer and founder focused on creating scalable, robust, and sustainable web systems, transforming ideas into products that deliver measurable business value.
 At Kyberno TechHouse, I lead projects in software architecture, SaaS development, and automation, combining clean code with strategic design.
 
 🧰 Technologies I work with:  
