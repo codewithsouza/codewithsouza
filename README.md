@@ -19,16 +19,13 @@ Website: https://www.kyberno.com.br/
 LinkedIn: https://www.linkedin.com/company/kyberno-techhouse/
 
 ---
+## KyVoice – Real-Time P2P Communication Platform
 
-## SEPA — Creative Expression Platform
+KyVoice is a full-featured real-time communication platform built to support peer-to-peer audio and video calls, multi-user voice rooms, screen sharing, and real-time messaging.
 
-Stack: React · Node.js · TypeScript
+Designed with a scalable backend architecture and low-latency communication, KyVoice demonstrates production-ready patterns for modern real-time applications, making it suitable both as a portfolio project and as a foundation for commercial or enterprise-grade solutions.
 
-A vibrant and expressive platform designed to empower individuals to share ideas, music, and inspiration with the world.  
-SEPA provides a modern space where creativity meets community — connecting artists, thinkers, and dreamers through authentic expression and inspiration.
-
-GitHub Repository: https://github.com/codewithsouza/Sepa-DEMO  
-Live Demo: https://sepa.lat/
+GitHub Repository: https://github.com/codewithsouza/DISCORDO-demo
 
 ---
 
@@ -56,15 +53,6 @@ Live Demo: https://easydesk.up.railway.app/accounts/login/
 
 ---
 
-## KyVoice – Real-Time P2P Communication Platform
-
-KyVoice is a full-featured real-time communication platform built to support peer-to-peer audio and video calls, multi-user voice rooms, screen sharing, and real-time messaging.
-
-Designed with a scalable backend architecture and low-latency communication, KyVoice demonstrates production-ready patterns for modern real-time applications, making it suitable both as a portfolio project and as a foundation for commercial or enterprise-grade solutions.
-
-GitHub Repository: https://github.com/codewithsouza/DISCORDO-demo
-
----
 
 ## Languages & Tools
 
