@@ -46,12 +46,14 @@ The project features a clean, strategic interface built to attract new clients a
 SaaS platform for accounting firms with modules for client management, tax compliance, licensing, financial records, internal audits, and deadline notifications. Includes Excel import/export and multi-user access control.  
 🔗 [GitHub Repository](https://github.com/codewithsouza/EasyDesk---Enterprise-Accounting-Management-System) · [Live Demo](https://easydesk.up.railway.app/accounts/login/)
 
-### 📞 Call Master - Complete P2P WebRTC Communication Platform
-Stack: Django 4.2 · PostgreSQL · Redis · Django Channels · WebRTC · Vanilla JS
-Full-featured P2P video/audio calling platform with authentication, friend system, real-time messaging, and WebSocket signaling. Includes call history, online status tracking, and Discord-inspired modern UI.
+### KyVoice – Real-Time P2P Communication Platform
 
-🔗 [GitHub Repository](https://github.com/codewithsouza/DISCORDO-demo)
+KyVoice is a full-featured real-time communication platform built to support peer-to-peer audio and video calls, multi-user voice rooms, screen sharing, and real-time messaging.
 
+Designed with a scalable backend architecture and low-latency communication, KyVoice demonstrates production-ready patterns for modern real-time applications, making it suitable both as a portfolio project and as a foundation for commercial or enterprise-grade solutions.
+
+Tech Stack
+🔗 GitHub Repository: https://github.com/codewithsouza/DISCORDO-demo
 
 
 
