@@ -29,30 +29,6 @@ GitHub Repository: https://github.com/codewithsouza/DISCORDO-demo
 
 ---
 
-## UAI Accounting — Professional Landing Page
-
-Stack: Next.js · React · TypeScript
-
-A modern and responsive landing page designed to highlight the services of UAI Accounting, focusing on clarity, credibility, and lead conversion.  
-The project features a clean, strategic interface built to attract new clients and present the firm’s services effectively.
-
-GitHub Repository: https://github.com/codewithsouza/Uai-Contabilidade-Demo  
-Live Demo: https://www.uaicontabilidade.com.br/
-
----
-
-## EasyDesk — Accounting Management Platform
-
-Stack: Django · MySQL · Vanilla JS
-
-SaaS platform for accounting firms with modules for client management, tax compliance, licensing, financial records, internal audits, and deadline notifications.  
-Includes Excel import/export and multi-user access control.
-
-GitHub Repository: https://github.com/codewithsouza/EasyDesk---Enterprise-Accounting-Management-System  
-Live Demo: https://easydesk.up.railway.app/accounts/login/
-
----
-
 
 ## Languages & Tools
 
