@@ -39,13 +39,11 @@ Conceptual and client brands where the design *is* the product — art direction
 **VIGÍLIA® — Streetwear brand concept**
 Surveillance aesthetic meets Brazilian street culture. A full brand built from scratch — identity, manifesto, collection, and an autonomous web experience with system-inspired motion (camera circuit navigation, detection-mode hovers). *Cold in form, warm in content.*
 `Next.js` · `GSAP` · `Art Direction` · `Branding`
-<img width="1900" height="903" alt="image" src="https://github.com/user-attachments/assets/a87b68b6-022b-44bf-95fb-b7bede915d05" />
 
 
 **GÉLIDA® — Silent-luxury jewelry brand concept**
 Jewelry as a frozen instant — the ephemeral, made eternal. Editorial high-contrast serif, ice palette, and an experience where emptiness is the protagonist. Built as the exact opposite of VIGÍLIA, to prove range.
 `Next.js` · `GSAP` · `Art Direction` · `Branding`
-<img width="1900" height="903" alt="image" src="https://github.com/user-attachments/assets/b9fcaa21-1d52-4f24-9c79-3ae1ebf805cf" />
 
 
 **PATRITECH — Corporate B2B Landing**
