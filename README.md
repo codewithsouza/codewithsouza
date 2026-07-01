@@ -1,95 +1,56 @@
 ![GIF Pixelado](./assets/gif-pixelado.gif)
 
-# Hi, I'm Lucas — Full Stack Web Developer
+# Hi, I'm Lucas — Full-Stack Developer & Creative Director
 
-I'm a developer and founder focused on creating scalable, robust, and sustainable web systems, transforming ideas into products that deliver measurable business value.  
-At Kyberno TechHouse, I lead projects in software architecture, SaaS development, and automation, combining clean code with strategic design.
+I build **systems and brands** — from software architecture to art direction, in the same hand.
 
-Technologies I work with  
-`React` · `Next.js` · `Django` · `PostgreSQL` · `Docker` · `TailwindCSS`
+Founder of Kyberno TechHouse, I lead projects that combine robust engineering (real-time systems, SaaS, multi-tenant architecture) with strong visual identity and design. Most developers do one; I do both — clean code *and* the creative direction that makes a product feel like a brand.
+
+`React` · `Next.js` · `Django` · `TypeScript` · `PostgreSQL` · `Docker` · `TailwindCSS` · `WebRTC` · `GSAP`
+
+ Portfolio: https://www.kyberno.com.br/
 
 ---
 
 ## About Kyberno TechHouse
 
-At Kyberno TechHouse, we build custom software solutions that align technology with business goals.  
-Our focus is on clarity, performance, and reliability — delivering modern systems that scale efficiently.
+At Kyberno, we build custom software that aligns technology with business goals — with an obsession for clarity, performance, and reliability. From complex real-time systems to brand-defining web experiences, every delivery is engineered to scale and designed to stand out.
 
-Website: https://www.kyberno.com.br/  
+Website: https://www.kyberno.com.br/
 LinkedIn: https://www.linkedin.com/company/kyberno-techhouse/
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### KyVoice – Real-Time P2P Communication Platform
+###  Systems & Product
 
-Enterprise-grade real-time communication platform built for encrypted, secure peer-to-peer audio and video calls. Features multi-user voice rooms, screen sharing, and real-time messaging with direct connections, low latency, and a strong focus on privacy.
-
-`Django` · `JavaScript` · `WebRTC`
-
-Website: https://www.kyvoice.com.br/  
-GitHub: https://github.com/codewithsouza/DISCORDO-demo
+**Aegis (KyVoice) — Real-Time Confidential Communication Platform**
+Enterprise-grade real-time communication built for encrypted, secure audio and video. Multi-user voice rooms, screen sharing, and messaging with low latency and end-to-end encryption. Django · Channels · LiveKit (SFU, frame-level E2EE) · Redis · PostgreSQL (multi-tenant).
+`Django` · `WebRTC` · `E2EE` · `Multi-tenant`
+→ https://www.kyvoice.com.br/
 
 ---
 
-### SEPA – Creative Expression Platform
+### 🎨 Brand & Art Direction
 
-A vibrant and expressive platform designed to empower individuals to share ideas, music, and inspiration with the world. SEPA offers a modern space where creativity meets community — connecting artists, thinkers, and dreamers through authentic expression.
+Conceptual and client brands where the design *is* the product — art direction from concept to code.
 
-`React` · `Node.js` · `TypeScript`
+**VIGÍLIA® — Streetwear brand concept**
+Surveillance aesthetic meets Brazilian street culture. A full brand built from scratch — identity, manifesto, collection, and an autonomous web experience with system-inspired motion (camera circuit navigation, detection-mode hovers). *Cold in form, warm in content.*
+`Next.js` · `GSAP` · `Art Direction` · `Branding`
 
----
+**GÉLIDA® — Silent-luxury jewelry brand concept**
+Jewelry as a frozen instant — the ephemeral, made eternal. Editorial high-contrast serif, ice palette, and an experience where emptiness is the protagonist. Built as the exact opposite of VIGÍLIA, to prove range.
+`Next.js` · `GSAP` · `Art Direction` · `Branding`
 
-### UAI Contabilidade – Professional Landing Page
+**PATRITECH — Corporate B2B Landing**
+Animated corporate landing for a cybersecurity company. Isometric dashboards, scroll-driven stats, interactive sections.
+`Next.js` · `TypeScript` · `Framer Motion`
 
-Modern and responsive landing page designed to highlight accounting services, with a focus on clarity, credibility, and lead conversion. Clean and strategic interface built to attract new clients and present services effectively.
-
-`Next.js` · `React` · `TypeScript`
-
-Website: https://www.uaicontabilidade.com.br/
-
----
-
-### CRM – Customer Relationship Management
-
-System to centralize leads, contacts, and sales pipeline. Organizes opportunities, activities, and history in a single dashboard so business teams can make clear, data-driven decisions.
-
-`Next.js` · `TypeScript` · `TailwindCSS`
-
----
-
-### Fredplugz – Beatmaker E-commerce
-
-Platform for distribution and sale of beats and drum kits for artists. Exclusive catalog with instant preview, direct purchase via WhatsApp integration, and immediate delivery.
-
-`Next.js` · `E-commerce` · `WhatsApp API`
-
-Website: https://fredplugz.com/
-
----
-
-### Fecit – Streetwear E-commerce
-
-Streetwear fashion online store with a bold visual identity. T-shirt and accessories catalog with urban aesthetics, shopping system, and digital storefront.
-
-`E-commerce` · `Online Store` · `Streetwear`
-
----
-
-### Artist Hub – Centralized Artist Management
-
-Hub to centralize schedule, shows, albums, and contractor contacts. Organizes calendar, materials, and key details in one dashboard for fast, professional decisions.
-
-`Next.js` · `TypeScript` · `TailwindCSS`
-
----
-
-### Hub LX – Complete Artist Ecosystem
-
-Platform to centralize releases, contractors, media kit, and everything the artist needs in one organized place, with a clear and structured overview.
-
-`Next.js` · `TypeScript` · `TailwindCSS`
+**ReCourt — Sportswear Upcycling (Editorial E-commerce)**
+Editorial brand experience for an authorial fashion label. Visual storytelling that turns brand identity into desire.
+`Next.js` · `E-commerce` · `Branding`
 
 ---
 
@@ -110,12 +71,10 @@ Platform to centralize releases, contractors, media kit, and everything the arti
 
 ---
 
-## Contact Me
+## Let's talk
 
-Email: lds.antunesdev@gmail.com  
-Upwork: https://www.upwork.com/freelancers/~01528998e13ceaa5aa  
+Email: lds.antunesdev@gmail.com
+Portfolio: https://www.kyberno.com.br/
 LinkedIn: https://www.linkedin.com/in/lucas-souza-a869882aa/
 
----
-
-Let's build something great together. Available for freelance and remote work.
+*Building systems that scale and brands that stand out — from architecture to art direction.*
