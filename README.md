@@ -1,8 +1,8 @@
 ![GIF Pixelado](./assets/gif-pixelado.gif)
 
-# Hi, I'm Lucas — Full-Stack Developer & Creative Director
+# Hi, I'm Lucas, Full-Stack Developer & Creative Director
 
-I build **systems and brands** — from software architecture to art direction, in the same hand.
+I build **systems and brands** from software architecture to art direction, in the same hand.
 
 Founder of Kyberno TechHouse, I lead projects that combine robust engineering (real-time systems, SaaS, multi-tenant architecture) with strong visual identity and design. Most developers do one; I do both — clean code *and* the creative direction that makes a product feel like a brand.
 
